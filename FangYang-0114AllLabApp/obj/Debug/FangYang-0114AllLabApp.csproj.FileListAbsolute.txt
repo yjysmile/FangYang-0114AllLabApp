@@ -1,0 +1,8 @@
+C:\Users\yyyyy\source\repos\FangYang-0114AllLabApp\FangYang-0114AllLabApp\bin\Debug\FangYang-0114AllLabApp.exe.config
+C:\Users\yyyyy\source\repos\FangYang-0114AllLabApp\FangYang-0114AllLabApp\bin\Debug\FangYang-0114AllLabApp.exe
+C:\Users\yyyyy\source\repos\FangYang-0114AllLabApp\FangYang-0114AllLabApp\bin\Debug\FangYang-0114AllLabApp.pdb
+C:\Users\yyyyy\source\repos\FangYang-0114AllLabApp\FangYang-0114AllLabApp\obj\Debug\FangYang-0114AllLabApp.csproj.AssemblyReference.cache
+C:\Users\yyyyy\source\repos\FangYang-0114AllLabApp\FangYang-0114AllLabApp\obj\Debug\FangYang-0114AllLabApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\yyyyy\source\repos\FangYang-0114AllLabApp\FangYang-0114AllLabApp\obj\Debug\FangYang-0114AllLabApp.csproj.CoreCompileInputs.cache
+C:\Users\yyyyy\source\repos\FangYang-0114AllLabApp\FangYang-0114AllLabApp\obj\Debug\FangYang-0114AllLabApp.exe
+C:\Users\yyyyy\source\repos\FangYang-0114AllLabApp\FangYang-0114AllLabApp\obj\Debug\FangYang-0114AllLabApp.pdb

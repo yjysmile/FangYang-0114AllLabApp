@@ -1,0 +1,11 @@
+C:\Users\yyyyy\source\repos\FangYang-0114AllLabApp\LabAss2\bin\Debug\LabAss2.exe.config
+C:\Users\yyyyy\source\repos\FangYang-0114AllLabApp\LabAss2\bin\Debug\LabAss2.exe
+C:\Users\yyyyy\source\repos\FangYang-0114AllLabApp\LabAss2\bin\Debug\LabAss2.pdb
+C:\Users\yyyyy\source\repos\FangYang-0114AllLabApp\LabAss2\obj\Debug\LabAss2.csproj.AssemblyReference.cache
+C:\Users\yyyyy\source\repos\FangYang-0114AllLabApp\LabAss2\obj\Debug\LabAss2.csproj.SuggestedBindingRedirects.cache
+C:\Users\yyyyy\source\repos\FangYang-0114AllLabApp\LabAss2\obj\Debug\LabAss2.Form1.resources
+C:\Users\yyyyy\source\repos\FangYang-0114AllLabApp\LabAss2\obj\Debug\LabAss2.Properties.Resources.resources
+C:\Users\yyyyy\source\repos\FangYang-0114AllLabApp\LabAss2\obj\Debug\LabAss2.csproj.GenerateResource.cache
+C:\Users\yyyyy\source\repos\FangYang-0114AllLabApp\LabAss2\obj\Debug\LabAss2.csproj.CoreCompileInputs.cache
+C:\Users\yyyyy\source\repos\FangYang-0114AllLabApp\LabAss2\obj\Debug\LabAss2.exe
+C:\Users\yyyyy\source\repos\FangYang-0114AllLabApp\LabAss2\obj\Debug\LabAss2.pdb

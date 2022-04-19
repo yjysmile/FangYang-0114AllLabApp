@@ -23,7 +23,7 @@ namespace LabAss3
         {
             Form childForm = new Form();
             childForm.MdiParent = this;
-            childForm.Text = "窗口 " + childFormNumber++;
+            childForm.Text = "Window " + childFormNumber++;
             childForm.Show();
         }
 
@@ -31,7 +31,7 @@ namespace LabAss3
         {
             OpenFileDialog openFileDialog = new OpenFileDialog();
             openFileDialog.InitialDirectory = Environment.GetFolderPath(Environment.SpecialFolder.Personal);
-            openFileDialog.Filter = "文本文件(*.txt)|*.txt|所有文件(*.*)|*.*";
+            openFileDialog.Filter = "Text Files (*.txt)|*.txt|All Files (*.*)|*.*";
             if (openFileDialog.ShowDialog(this) == DialogResult.OK)
             {
                 string FileName = openFileDialog.FileName;
@@ -42,7 +42,7 @@ namespace LabAss3
         {
             SaveFileDialog saveFileDialog = new SaveFileDialog();
             saveFileDialog.InitialDirectory = Environment.GetFolderPath(Environment.SpecialFolder.Personal);
-            saveFileDialog.Filter = "文本文件(*.txt)|*.txt|所有文件(*.*)|*.*";
+            saveFileDialog.Filter = "Text Files (*.txt)|*.txt|All Files (*.*)|*.*";
             if (saveFileDialog.ShowDialog(this) == DialogResult.OK)
             {
                 string FileName = saveFileDialog.FileName;
@@ -102,6 +102,13 @@ namespace LabAss3
             {
                 childForm.Close();
             }
+        }
+
+        private void enterCustomerToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmCustomerDataEntry obj = new frmCustomerDataEntry();
+            obj.MdiParent = this;
+            obj.Show();
         }
     }
 }
