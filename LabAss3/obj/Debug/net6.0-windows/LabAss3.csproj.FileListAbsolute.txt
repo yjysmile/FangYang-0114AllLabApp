@@ -1,0 +1,9 @@
+C:\Users\yyyyy\source\repos\FangYang-0114AllLabApp\LabAss3\obj\Debug\net6.0-windows\LabAss3.csproj.AssemblyReference.cache
+C:\Users\yyyyy\source\repos\FangYang-0114AllLabApp\LabAss3\obj\Debug\net6.0-windows\LabAss3.frmCustomerDataEntry.resources
+C:\Users\yyyyy\source\repos\FangYang-0114AllLabApp\LabAss3\obj\Debug\net6.0-windows\LabAss3.frmCustomerPreview.resources
+C:\Users\yyyyy\source\repos\FangYang-0114AllLabApp\LabAss3\obj\Debug\net6.0-windows\LabAss3.MDIParent1.resources
+C:\Users\yyyyy\source\repos\FangYang-0114AllLabApp\LabAss3\obj\Debug\net6.0-windows\LabAss3.csproj.GenerateResource.cache
+C:\Users\yyyyy\source\repos\FangYang-0114AllLabApp\LabAss3\obj\Debug\net6.0-windows\LabAss3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yyyyy\source\repos\FangYang-0114AllLabApp\LabAss3\obj\Debug\net6.0-windows\LabAss3.AssemblyInfoInputs.cache
+C:\Users\yyyyy\source\repos\FangYang-0114AllLabApp\LabAss3\obj\Debug\net6.0-windows\LabAss3.AssemblyInfo.cs
+C:\Users\yyyyy\source\repos\FangYang-0114AllLabApp\LabAss3\obj\Debug\net6.0-windows\LabAss3.csproj.CoreCompileInputs.cache
