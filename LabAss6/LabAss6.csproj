@@ -53,6 +53,7 @@
     <Reference Include="System.Core" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Drawing" />
     <Reference Include="System.Web" />
@@ -76,6 +77,7 @@
     <Content Include="ads\BannerAd2.gif" />
     <Content Include="ads\BannerAd3.gif" />
     <Content Include="App_Data\AdListXMLFile.xml" />
+    <Content Include="CurrencyConverter.aspx" />
     <Content Include="Global.asax" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -86,6 +88,13 @@
     </Compile>
     <Compile Include="ads.aspx.designer.cs">
       <DependentUpon>ads.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CurrencyConverter.aspx.cs">
+      <DependentUpon>CurrencyConverter.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CurrencyConverter.aspx.designer.cs">
+      <DependentUpon>CurrencyConverter.aspx</DependentUpon>
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>

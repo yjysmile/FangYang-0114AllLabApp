@@ -110,5 +110,10 @@ namespace LabAss3
             obj.MdiParent = this;
             obj.Show();
         }
+
+        private void MDIParent1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
